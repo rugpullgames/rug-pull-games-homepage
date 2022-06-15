@@ -1,5 +1,4 @@
-# rug-pull.games homepage
-http://rug-pull.games/
+# [rug-pull.games](http://rug-pull.games/)
 
-https://user-images.githubusercontent.com/4829591/173812911-70614288-7790-44b6-9030-a27124e7036b.mp4
+https://user-images.githubusercontent.com/4829591/173814224-6d0a41f4-b714-4546-af7e-c1511120347e.mp4
 
