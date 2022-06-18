@@ -2,3 +2,7 @@
   text-align: center;
   overflow-x: hidden;
 }
+
+div[role='button'] {
+  background-color: white !important;
+}

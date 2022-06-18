@@ -1,4 +1,4 @@
-import Fullpage, { FullPageSections, FullpageSection } from '@ap.cx/react-fullpage';
+import Fullpage, { FullPageSections, FullpageSection, FullpageNavigation } from '@ap.cx/react-fullpage';
 import Logo from './components/Logo';
 import DCB from './components/DCB';
 import Projects from './components/Projects';
@@ -8,6 +8,7 @@ function App() {
   return (
     <div className='App'>
       <Fullpage>
+        <FullpageNavigation />
         <FullPageSections>
           <FullpageSection>
             <Logo />
