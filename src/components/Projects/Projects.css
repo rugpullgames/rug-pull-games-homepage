@@ -1,11 +1,11 @@
-.project-container {
+.projects-container {
   position: relative;
   height: 100vh;
   width: 100vw;
   margin: auto;
 }
 
-.project-title {
+.projects-title {
   position: absolute;
   top: 10vh;
   left: 10vw;
@@ -16,7 +16,7 @@
   text-align: left;
 }
 
-.project-rpg-404 {
+.projects-rpg-404 {
   position: absolute;
   top: -100vh;
   bottom: -100vh;
@@ -30,6 +30,6 @@
   cursor: pointer;
 }
 
-.project-rpg-404:hover {
+.projects-rpg-404:hover {
   transform: scale(1.2);
 }
