@@ -3,7 +3,7 @@ import './Logo.css';
 
 export default function Logo() {
   return (
-    <div rpg-logo>
+    <div className='rpg-logo-container'>
       <img className='rpg-logo-img' src={process.env.PUBLIC_URL + '/img/rpg_logo.svg '} alt='Logo' />
     </div>
   );
